@@ -1,5 +1,9 @@
 # Two-Tier BTC Dip Bot — btc-race-24h-20261115-0828
 
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/maelaozera/btc-race-24h-20261115-0828/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/maelaozera/btc-race-24h-20261115-0828/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+
 A long-only cbBTC/USDC trading bot for make.fun's 24-hour BTC race. It
 speaks `agent-fun/bars-replay/v1` over stdin/stdout (one `hello`, one
 `batch` per 1-minute bar, then `done`) and answers every batch with
